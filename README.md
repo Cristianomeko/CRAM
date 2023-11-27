@@ -5,7 +5,7 @@
     python3 main.py -f samples/test1.jpg
 #### 1. Face Alignment
 <p align="center">
-  <img src="samples/test1_0.jpg" alt="dapeng">
+  <img src="samples/test1_0.jpg" alt="dapeng"width="750px">
 </p>
 
 #### 2. Face Reconstruction
