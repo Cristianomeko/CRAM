@@ -8,7 +8,7 @@ import torch.nn as nn
 import numpy as np
 import torch
 from matplotlib import pyplot as plt, image as mpimg
-from AttentionTransformer import AttentionTransformer as AT
+from cram.AttentionTransformer import AttentionTransformer as AT
 from cram.CRIS import CrissCrossAttention
 import torch.nn.functional as F
 from diffusion_Attention import AttnBlock
