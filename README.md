@@ -10,5 +10,5 @@
 
 #### 2. Face Reconstruction
 <p align="center">
-  <img src="samples/test2_12.png" alt="demo" width="700px">
+  <img src="samples/test2_12.png" alt="demo" width="750px">
 </p>  
