@@ -9,7 +9,7 @@ import numpy as np
 import torch
 from matplotlib import pyplot as plt, image as mpimg
 from AttentionTransformer import AttentionTransformer as AT
-from CRIS import CrissCrossAttention
+from cram.CRIS import CrissCrossAttention
 import torch.nn.functional as F
 from diffusion_Attention import AttnBlock
 class h_sigmoid(nn.Module):
